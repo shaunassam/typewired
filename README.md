@@ -4,4 +4,4 @@ This is the GitHub repo for [Shaun Assam's **typewired**](https://typewired.com)
 
 The site was made with [Hugo Blox](https://hugoblox.com/). The **typewired** theme was created with modifications to the [Hugo Blox Academic CV Template](https://github.com/HugoBlox/hugo-blox-builder/tree/main/templates/academic-cv).
 
-The **typewired** theme template can be found at [Shaun Assam's - Typewired Template](https://github.com/shaunassam/typewired-template) GitHub page.
+The **typewired** theme template can be found at [**typewired** template](https://github.com/shaunassam/typewired-template) GitHub repository.
